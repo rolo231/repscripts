@@ -8,3 +8,4 @@
 9706197075 https://raw.githubusercontent.com/rolo231/repscripts/refs/heads/main/recoil.lua | Recoil
 9534705677 https://raw.githubusercontent.com/rolo231/repscripts/refs/heads/main/sniperArena | Sniper Arena
 9256910782 https://raw.githubusercontent.com/rolo231/repscripts/refs/heads/main/spearTraining.lua | Spear Training
+9588121608 https://raw.githubusercontent.com/rolo231/repscripts/main/PistolArena.lua | Pistol Arena
